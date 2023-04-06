@@ -1,1 +1,2 @@
 The Internet Computer is a decentralized computing platform that allows developers to build and deploy smart contracts and applications on a public network https://internetcomputer.org/. IC4J Java open source libraries provide a range of tools and interfaces for Java developers to interact with the Internet Computer network and build decentralized applications on top of it.
+Please, refer to the documentation provided here for more information http://docs.ic4j.com
